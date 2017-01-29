@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/main_style"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dennisjonsson.ngram.Avtivity.CorpusActivity">
+    <LinearLayout
+        android:layout_marginTop="0dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/corpus_progressbar_container"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        android:visibility="invisible">
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/corpus_progressBar"
+            android:layout_gravity="center_horizontal"
+            android:progressDrawable="@drawable/spinner_progressbar"/>
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:divider="#00000000"
+        />
+
+</RelativeLayout>

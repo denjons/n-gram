@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dennisjonsson.ngram.Avtivity.CorpusActivity" >
+
+    <item
+        android:id="@+id/menu_corpus_add_source"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/add_source"
+        android:showAsAction="ifRoom"/>
+
+
+
+
+</menu>

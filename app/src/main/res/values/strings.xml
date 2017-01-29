@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_title">gram</string>
+    <string name="app_name">n-gram Word Generator</string>
+
+    <string name="add_source">Add Source</string>
+    <string name="deleted_sources">Sources Deleted</string>
+    <string name="delete">Delete</string>
+    <string name="question_delete_selected_Sources">Delete Selected Sources?</string>
+    <string name="empty_corpus">Empty Source</string>
+
+    <string name="generate">Generate</string>
+    <string name="generate_names">Generate Names</string>
+    <string name="corpus">Corpus</string>
+
+    <string name="markov_order">Markov Order</string>
+    <string name="word_length">Max Length</string>
+    <string name="samples">Results</string>
+
+    <string name="corpus_hint">Enter Sample Text Here</string>
+    <string name="corpus_too_short">Not enough text to generate from</string>
+
+    <!-- add +1 to all, i.e. 3 is actually 4, -->
+    <string name="title_activity_result">Results</string>
+    <string name="title_activity_corpus">Sources</string>
+    <string name="title_activity_generator">Corpus</string>
+
+    <string name="example">Example</string>
+
+    <string name="error_restart_message">Something went wrong, restarting app :/</string>
+    <string name="example_corpus">example_corpus</string>
+
+
+</resources>

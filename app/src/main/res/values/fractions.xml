@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="text_manager_max_blank_characters_in_result_fraction">40%</fraction>
+
+</resources>

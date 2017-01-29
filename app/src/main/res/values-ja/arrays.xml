@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="example_corpus">
+        <item>skrutt russin pannkaka paj äpple päron melon plommon blåbär
+        hallon lingon honung hallon rönnbär krusbär jordgubbe gurka tomat potatis apelsin
+        fruktsallad tårta godis sås köttbulle yoghurt korv apa påfågel kossa hund katt räv
+        fiskmås valp anka apa papegoja prinsessa krigare trollkarl konung riddare jägare
+        drake nisse tomte hjälte spöke rumpnisse fjäska heja stöka söla sura Anders André Adam
+        Annika Anton Alicia Anna Angelica Bert Berta Andersson Bengtsson Bo Billy Björn Bosse
+        Christian Christiania Christina Dennis Danielle David Doris Desiree Davidsson Elin Erika
+        Eriksson Evert Edmund Edvinsson Fabian Filip Felicia Fredrik Fredriksson Glenn Gustaf
+        Gunnar Gunilla Henrik Håkan Hannah Helena Hampus Igor Isabella Johanna Joseph Jacobsson
+        Karin Kristian Kristofer Karlsson Knekt Lennart Linnéa Lars Louis Martin Malin Madeleine
+        Mårten Måns Matilda Niklas Nina Nilsson Oskar Olof Olivia Persson Pontus Pauline Petter
+        Richard Roger Rosen Stefan Sture Stina Sandra Sigurd Sanna Sonny Sebastian Tommy Tim
+        Thérèse Thor Viktor</item>
+
+    <item>monkey jellyfish squid duck cat penguin horse dog mouse
+        guinea pig rabbit cow chicken moose parrot crocodile lizard toad sheep bumble bee donkey
+        squirrel sashimi cherry ice cream sandwich mushroom raspberry honey noodle pumpkin steak
+        cream lollipop jellybean salmon cookies hamburger tuna sausage engineer linguist scientist
+        doctor dancer warrior beast wizard knight sniper troll doll raider monster princess cowboy
+        astronaut hero delicious fantastic good genius disastrous horrible delightful fabulous
+        crazy cranky dreamy dramatic terrifying super flexible troubling rubber balloon smiley
+        bubble moustache beard telescope space star galaxy moon sun robot android humanoid alien
+        snowball coffee cup Andreas Andy Anna Alice Bob Berta Beatrice Betty Billy Bianca Christian
+        Charles Charlie Charlotte Caroline Dennis Danny Diana Dacy Daniel Doris Eliot Ellen Frank
+        Frederick Freddy Fran Felicia Fanny Gordon Glenn Harry Henry Helena Hilton Hanna Isabelle
+        Isaac Ingrid Igor Jenny Joseph Josephine Johanna John Kathy Kenny Kate Louis Louise Lars
+        Lenny Martin Matilda Mickey Madeleine Mozart Michel Nikolas Nina Nelly Oscar Pauline Paul
+        Peter Pontus Pia Quinn Rickard Rosanna Rose Rina Sandy Sally simon Stewart Stefan Stacy
+        Sonny Timmy Tracy Tom Tobias Thor </item>
+    </string-array>
+
+</resources>

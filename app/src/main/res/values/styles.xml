@@ -1,0 +1,97 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="CustomActionBarTheme">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="main_style">
+        <item name="android:background">@color/background_1</item>
+    </style>
+
+    <!-- corpus -->
+    <style name="corpus">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/darker_grey</item>
+        <item name="android:minHeight">20dp</item>
+    </style>
+
+    <!-- buttons -->
+    <style name="button_1">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/large_button_height</item>
+        <item name="android:layout_marginTop">@dimen/large_button_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/large_button_margin_top</item>
+        <item name="android:paddingTop">@dimen/large_button_padding_top</item>
+        <item name="android:paddingBottom">@dimen/large_button_padding_bottom</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/large_button_text_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/button_1</item>
+    </style>
+
+    <!-- number pickers -->
+
+    <style name="number_picker_1">
+        <item name="android:padding">@dimen/padding_small_item</item>
+        <item name="android:layout_marginLeft">@dimen/padding_small_item</item>
+        <item name="android:layout_marginRight">@dimen/padding_small_item</item>
+        <item name="android:textColor">@color/dark_grey</item>
+        <item name="android:color">@color/dark_grey</item>
+    </style>
+
+
+    <style name="number_seekbar_1">
+        <item name="android:layout_marginLeft">@dimen/seek_bar_margin_sides</item>
+        <item name="android:layout_marginRight">@dimen/seek_bar_margin_sides</item>
+        <item name="android:layout_marginTop">@dimen/seek_bar_margin</item>
+        <item name="android:layout_marginBottom">@dimen/seek_bar_margin</item>
+    </style>
+
+
+    <!-- labels -->
+
+    <style name="label_1">
+        <item name="android:textSize">@dimen/small_title_text_size</item>
+        <item name="android:textColor">@color/dark_grey</item>
+        <item name="android:padding">@dimen/small_title_padding</item>
+    </style>
+
+    <!-- list items -->
+    <style name="list_item_title">
+        <item name="android:layout_margin">@dimen/padding_small_item</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/background_1</item>
+    </style>
+
+    <style name="list_item_1">
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:paddingTop">@dimen/padding_large_item</item>
+        <item name="android:paddingBottom">@dimen/padding_large_item</item>
+        <item name="android:background">@color/beige</item>
+    </style>
+
+    <!-- result textviews -->
+
+    <style name="result_text_view">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/darker_grey</item>
+        <item name="android:layout_marginTop">@dimen/margin_small_item</item>
+    </style>
+
+    <style name="result_top_text_view" parent="result_text_view">
+        <item name="android:textSize">@dimen/large_result_text</item>
+
+    </style>
+
+    <style name="result_middle_text_view" parent="result_text_view">
+        <item name="android:textSize">@dimen/medium_result_text</item>
+    </style>
+
+    <style name="result_low_text_view" parent="result_text_view">
+        <item name="android:textSize">@dimen/small_result_text</item>
+    </style>
+
+</resources>

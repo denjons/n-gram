@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_title">gram</string>
+    <string name="app_name">n-gram 言葉ジェネレータ</string>
+
+    <string name="add_source">ソースを加える</string>
+    <string name="deleted_sources">ソースを消す</string>
+    <string name="delete">消す</string>
+    <string name="question_delete_selected_Sources">選択したソースを消しますか</string>
+    <string name="empty_corpus">ソースがありませんでした</string>
+
+    <string name="generate">ジェネレート</string>
+    <string name="generate_names">名前をジェネレート</string>
+    <string name="corpus">言語資料</string>
+
+    <string name="markov_order">マルコフ連鎖</string>
+    <string name="word_length">最大</string>
+    <string name="samples">結果</string>
+
+    <string name="corpus_hint">サンプルテキストをここに入れてください</string>
+    <string name="corpus_too_short">テキストが十分ではありません</string>
+
+    <!-- add +1 to all, i.e. 3 is actually 4, -->
+    <string name="title_activity_result">結果</string>
+    <string name="title_activity_corpus">ソース</string>
+    <string name="title_activity_generator">ソース</string>
+
+    <string name="example">例</string>
+
+    <string name="error_restart_message">アプリの再始動</string>
+
+    <string name="example_corpus">example_corpus</string>
+</resources>

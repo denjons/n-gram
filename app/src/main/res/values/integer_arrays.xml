@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="list_item_colours">
+        <item>@color/dark_pink</item>
+        <item>@color/beige</item>
+    </integer-array>
+
+    <integer-array name="bad_chars">
+        <item>49832</item>
+    </integer-array>
+    
+</resources>

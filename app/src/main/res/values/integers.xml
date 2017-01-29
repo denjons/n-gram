@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="max_markov_order">5</integer>
+    <integer name="max_samples">30</integer>
+    <integer name="max_length">50</integer>
+    <integer name="initial_markov_order">2</integer>
+
+    <integer name="initial_length">14</integer>
+    <integer name="initial_samples">6</integer>
+
+    <integer name="layout_padding_sides">64</integer>
+    <integer name="layout_large_padding">16</integer>
+
+    <integer name="result_padding_vertical">24</integer>
+    <integer name="result_padding_horizontal">64</integer>
+    <integer name="result_text_size">20</integer>
+
+    <integer name="source_name_length">10</integer>
+
+    <integer name="text_manager_min_words">6</integer>
+
+    <integer name="generator_extra_text_length">60</integer>
+
+
+</resources>
